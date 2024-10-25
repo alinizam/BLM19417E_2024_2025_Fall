@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<W1Ap1.Models.Employee>
+<h1>@ViewBag.CompanyName</h1>
+<h1>@ViewData["CompanyN"]</h1>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+    </tr>
+
+@foreach (Employee e in Model)
+{
+    <tr>
+        <td> @e.Id </td>
+        <td> @e.FirstName</td>
+        <td> @e.LastName</td>
+        <td><a asp-area="" asp-controller="Employee" asp-route-Id="@e.Id" asp-action="Delete">Delete</a></td>
+        <td><a href="/Employee/Delete/@e.Id">DeleteWithLink</a></td>
+       
+    </tr>
+ }
+
+</table>
+
+<a asp-area="" asp-controller="Employee" asp-action="Create">Create</a>
+<a href="Employee/Create">CreateWithLink</a>
