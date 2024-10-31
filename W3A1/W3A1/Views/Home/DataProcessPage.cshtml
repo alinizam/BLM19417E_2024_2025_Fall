@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var companyName = @ViewData["CompanyName"];
+    var student = @ViewData["student"] as Student;
+}
+
+<h1> @ViewData["CompanyName"] </h1>
+
+
+<h2>@companyName</h2>
+<h2>@companyName</h2>
+
+
+<h1> Student </h1>
+<h2>@student.Id @student.Name</h2>
+
+<h1> ViewBag </h1>
+
+
+<h1> @ViewBag.UniversityName </h1>
+@{
+    var universityName = @ViewBag.UniversityName;
+    var studentObject = @ViewBag.StudentObject;
+}
+
+<h2>@studentObject.Id @studentObject.Name</h2>
+
+
+<h1> Temp - @TempData["TempCompanyName"] </h1>
+<ol>
+@foreach (var std in ViewBag.StudentList)
+{
+        <li>@std.Id - @std.Name</li>    
+}
+
+</ol>

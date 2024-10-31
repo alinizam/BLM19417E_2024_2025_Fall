@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\views\\home\\dataprocesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\views\\home\\dataprocesspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a1\\w3a1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED732541-9F9E-4D42-ADB0-413A2BC8B591}|W3A1\\W3A1.csproj|solutionrelative:w3a1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "W3A1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "W3A1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:47:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "W3A1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "W3A1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:48:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProcessPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Home\\DataProcessPage.cshtml",
+              "RelativeDocumentMoniker": "W3A1\\Views\\Home\\DataProcessPage.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Home\\DataProcessPage.cshtml",
+              "RelativeToolTip": "W3A1\\Views\\Home\\DataProcessPage.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:51:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Program.cs",
+              "RelativeDocumentMoniker": "W3A1\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Program.cs",
+              "RelativeToolTip": "W3A1\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:45:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "W3A1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "W3A1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:47:32.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "W3A1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "W3A1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:44:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "W3A1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Models\\Student.cs",
+              "RelativeToolTip": "W3A1\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:56:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "W3A1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "W3A1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T05:47:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\appsettings.json",
+              "RelativeDocumentMoniker": "W3A1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A1\\W3A1\\appsettings.json",
+              "RelativeToolTip": "W3A1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T05:46:24.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
