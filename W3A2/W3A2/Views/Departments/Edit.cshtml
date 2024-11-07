@@ -29,6 +29,31 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DeptName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var s in Model.Students)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => s.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => s.LastName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

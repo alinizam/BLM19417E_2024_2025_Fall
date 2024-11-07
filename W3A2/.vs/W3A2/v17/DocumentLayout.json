@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\migrations\\20241101023801_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\migrations\\20241101023801_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|c:\\users\\ali.nizam\\source\\repos\\w3a2\\w3a2\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6768276F-F1E8-46CF-B4A2-72C67772D131}|W3A2\\W3A2.csproj|solutionrelative:w3a2\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +46,113 @@
       "DocumentGroups": [
         {
           "DockedHeight": 301,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Program.cs",
+              "RelativeDocumentMoniker": "W3A2\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Program.cs",
+              "RelativeToolTip": "W3A2\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:55:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "W3A2\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "W3A2\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:44:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "e0jyffmh.sql ",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql",
+              "RelativeDocumentMoniker": "W3A2\\obj\\Debug\\net8.0\\e0jyffmh.sql",
+              "ToolTip": "e0jyffmh.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-01T02:41:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241101023801_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Migrations\\20241101023801_initial.cs",
+              "RelativeDocumentMoniker": "W3A2\\Migrations\\20241101023801_initial.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Migrations\\20241101023801_initial.cs",
+              "RelativeToolTip": "W3A2\\Migrations\\20241101023801_initial.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:38:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "W3A2\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Models\\Course.cs",
+              "RelativeToolTip": "W3A2\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:36:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "W3A2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Models\\Student.cs",
+              "RelativeToolTip": "W3A2\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:33:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "W3A2\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "W3A2\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T02:32:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "W3A2\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W3A2\\W3A2\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "W3A2\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T02:32:01.828Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,10 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using System.Configuration;
 using W3A2.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<DBContext>();
+builder.Services.AddDbContext<DBContext>(
+       options=>options.UseSqlServer(builder.Configuration.GetConnectionString("StudentDatabase")
+       )
+);
+
 
 var app = builder.Build();
 
@@ -25,6 +32,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Departments}/{action=Index}/{id?}");
 
 app.Run();
