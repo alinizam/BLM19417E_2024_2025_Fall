@@ -29,6 +29,7 @@ namespace W5A1.Controllers
 
         public async Task<IActionResult> Index1()
         {
+           
             //  var departments = _context.Departments.FromSqlRaw<Department>("select * from departments");
             var pDept = new SqlParameter
             {
@@ -38,6 +39,7 @@ namespace W5A1.Controllers
             };
             _context.Database.ExecuteSqlRaw("EXEC [dbo].[getDeptCount] @p_count OUTPUT", pDept);
             ViewBag.DeptCount = pDept.Value;
+            HttpContext.Session.SetInt32("DeptCount", (int)pDept.Value);
             return View(_context.Departments.FromSqlRaw<Department>("select * from departments where id>{0}", 6));
         }
 
@@ -63,6 +65,7 @@ namespace W5A1.Controllers
         // GET: Departments/Create
         public IActionResult Create()
         {
+            ViewBag.DeptCount=HttpContext.Session.GetInt32("DeptCount");
             return View();
         }
 

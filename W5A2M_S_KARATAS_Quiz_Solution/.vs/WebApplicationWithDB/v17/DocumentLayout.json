@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\models\\webappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|c:\\users\\mehmedsefa\\desktop\\webdesignprogramming\\webapplicationwithdb\\webapplicationwithdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1784569-C7FB-4E76-A800-B9420A007036}|WebApplicationWithDB\\WebApplicationWithDB.csproj|solutionrelative:webapplicationwithdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationWithDB\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T09:13:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:13:53.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:13:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\WebAppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Models\\WebAppDbContext.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\WebAppDbContext.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Models\\WebAppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:13:44.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Program.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Program.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:55:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\appsettings.json",
+              "RelativeToolTip": "WebApplicationWithDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T05:58:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:19:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:13:55.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationWithDB\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:42:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:19:04.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationWithDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T08:21:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationWithDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MehmedSefa\\Desktop\\WebDesignProgramming\\WebApplicationWithDB\\WebApplicationWithDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationWithDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:40:27.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
