@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        async function getDepartment() {
+            const response = await fetch("https://localhost:7129/api/Departments");
+            const departments = await response.json();
+            console.log(departments);
+            let myList = "<ol> "
+            for (let i in departments) {
+                myList += " <li>" + departments[i].deptName + "</li>";
+            }
+            myList += " </ol>"
+            document.getElementById("deptDiv").innerHTML = myList;
+        }
+
+        function getDepartmentPromise() {
+            let departments;
+            const response = fetch("https://localhost:7129/api/Departments")
+                .then(r => r.json())
+                .then(d => {
+                    departments = d;
+                    let myList = "<ol> "
+                    for (let i in departments) {
+                        myList += " <li>" + departments[i].deptName + "</li>";
+                    }
+                    myList += " </ol>"
+                    document.getElementById("deptDiv").innerHTML = myList;
+                })
+                .catch(e => console.log(e));
+        }
+    </script>
+</head>
+
+<body>
+
+</body>
+<div id="deptDiv"></div>
+<script>getDepartmentPromise()</script>
+
+</html>
