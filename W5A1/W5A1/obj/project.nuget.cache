@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mDV6zV+wgy2tL5W39tFiNyazGrBdrw2JlnWGgGbULe36QOM13pbyCImYrzbDTrFqIYFSe5Ws4LE/Gjh7F7ZJA==",
+  "dgSpecHash": "oCDCvLx4bauf2B3YSLJRqOuUmYiDbl7UWYnU7im19sUL/GV/Yx1gVWGYHdUt7gtmqyb3TbKbGDglwc1sjFZnlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\W5A1.csproj",
+  "projectFilePath": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\W5A1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali.nizam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ali.nizam\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

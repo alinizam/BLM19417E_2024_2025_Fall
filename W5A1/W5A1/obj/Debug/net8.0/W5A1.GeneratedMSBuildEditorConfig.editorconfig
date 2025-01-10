@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = W5A1
 build_property.RootNamespace = W5A1
-build_property.ProjectDir = C:\Users\ali.nizam\source\repos\W5A1\W5A1\
+build_property.ProjectDir = D:\calisma\verilen dersler\Web Design\Web Design 2024_2025\Codes\BLM19417E_2024_2025_Fall\W5A1\W5A1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ali.nizam\source\repos\W5A1\W5A1
+build_property.MSBuildProjectDirectory = D:\calisma\verilen dersler\Web Design\Web Design 2024_2025\Codes\BLM19417E_2024_2025_Fall\W5A1\W5A1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Create.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Delete.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Details.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Edit.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Index.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Departments/Index1.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Departments/Index1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXgxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Home/Index.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Home/Privacy.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Shared/Error.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/_ViewImports.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/_ViewStart.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ali.nizam/source/repos/W5A1/W5A1/Views/Shared/_Layout.cshtml]
+[D:/calisma/verilen dersler/Web Design/Web Design 2024_2025/Codes/BLM19417E_2024_2025_Fall/W5A1/W5A1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-h63linetdh

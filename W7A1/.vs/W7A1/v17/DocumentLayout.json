@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\",
+  "WorkspaceRootPath": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w7a1\\w7a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|d:\\calisma\\verilen dersler\\web design\\web design 2024_2025\\codes\\blm19417e_2024_2025_fall\\w7a1\\w7a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|solutionrelative:w7a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w7a1\\w7a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\w7a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6236955-2336-40B2-8EAC-30B0E2C074FE}|W7A1\\W7A1.csproj|solutionrelative:w7a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "W7A1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "W7A1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:24:05.616Z",
               "EditorCaption": ""
@@ -41,14 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\Program.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\Program.cs",
               "RelativeDocumentMoniker": "W7A1\\Program.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\Program.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\Program.cs",
               "RelativeToolTip": "W7A1\\Program.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAswDoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:52:56.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T05:52:56.613Z"
             }
           ]
         }

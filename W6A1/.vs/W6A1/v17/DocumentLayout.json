@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w6a1\\w6a1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W6A1\\w6a1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73840985-02EA-4FFD-A394-FD8148F9BA41}|W6A1\\W6A1.csproj|solutionrelative:w6a1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Program.cs",
+              "RelativeDocumentMoniker": "W6A1\\Program.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Program.cs",
+              "RelativeToolTip": "W6A1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:42:21.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "W6A1\\Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Models\\DBContext.cs",
+              "RelativeToolTip": "W6A1\\Models\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:02:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "W6A1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\WeatherForecast.cs",
+              "RelativeToolTip": "W6A1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:41:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "W6A1\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "W6A1\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:03:13.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "W6A1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "W6A1\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:10:05.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "W6A1\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Models\\Department.cs",
+              "RelativeToolTip": "W6A1\\Models\\Department.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:42:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "W6A1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W6A1\\W6A1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "W6A1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:41:30.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

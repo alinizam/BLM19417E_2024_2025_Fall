@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\",
+  "WorkspaceRootPath": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w5a1\\w5a1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|d:\\calisma\\verilen dersler\\web design\\web design 2024_2025\\codes\\blm19417e_2024_2025_fall\\w5a1\\w5a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|d:\\calisma\\verilen dersler\\web design\\web design 2024_2025\\codes\\blm19417e_2024_2025_fall\\w5a1\\w5a1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W5A1\\w5a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|c:\\users\\ali.nizam\\source\\repos\\w5a1\\w5a1\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W5A1\\w5a1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W5A1\\w5a1\\views\\departments\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\views\\departments\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\views\\departments\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W5A1\\w5a1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|C:\\Users\\ali.nizam\\source\\repos\\W5A1\\w5a1\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\w5a1\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77FB2511-7F12-43EE-9B72-C1FF58558365}|W5A1\\W5A1.csproj|solutionrelative:w5a1\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 301,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,37 +50,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "W5A1\\Views\\Departments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "W5A1\\Views\\Departments\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-08T08:02:12.023Z",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "W5A1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "W5A1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:18:18.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "W5A1\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "W5A1\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:02:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "W5A1\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "W5A1\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAswBUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T05:48:48.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Index.cshtml",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "W5A1\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Index.cshtml",
               "RelativeToolTip": "W5A1\\Views\\Departments\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index1.cshtml",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Index1.cshtml",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Index1.cshtml",
               "RelativeDocumentMoniker": "W5A1\\Views\\Departments\\Index1.cshtml",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Views\\Departments\\Index1.cshtml",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Views\\Departments\\Index1.cshtml",
               "RelativeToolTip": "W5A1\\Views\\Departments\\Index1.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -96,24 +112,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Program.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Program.cs",
               "RelativeDocumentMoniker": "W5A1\\Program.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Program.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Program.cs",
               "RelativeToolTip": "W5A1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T05:48:58.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T05:48:58.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Models\\Department.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "W5A1\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Models\\Department.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Models\\Department.cs",
               "RelativeToolTip": "W5A1\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Models\\DBContext.cs",
+              "DocumentMoniker": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Models\\DBContext.cs",
               "RelativeDocumentMoniker": "W5A1\\Models\\DBContext.cs",
-              "ToolTip": "C:\\Users\\ali.nizam\\source\\repos\\W5A1\\W5A1\\Models\\DBContext.cs",
+              "ToolTip": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W5A1\\W5A1\\Models\\DBContext.cs",
               "RelativeToolTip": "W5A1\\Models\\DBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\W7A1.csproj": {}
+    "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\W7A1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\W7A1.csproj": {
+    "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\W7A1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\W7A1.csproj",
+        "projectUniqueName": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\W7A1.csproj",
         "projectName": "W7A1",
-        "projectPath": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\W7A1.csproj",
+        "projectPath": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\W7A1.csproj",
         "packagesPath": "C:\\Users\\ali.nizam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali.nizam\\source\\repos\\W7A1\\W7A1\\obj\\",
+        "outputPath": "D:\\calisma\\verilen dersler\\Web Design\\Web Design 2024_2025\\Codes\\BLM19417E_2024_2025_Fall\\W7A1\\W7A1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ali.nizam\\AppData\\Roaming\\NuGet\\NuGet.Config",

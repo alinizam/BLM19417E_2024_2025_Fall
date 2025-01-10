@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\W6A2.props" />
+</Project>
